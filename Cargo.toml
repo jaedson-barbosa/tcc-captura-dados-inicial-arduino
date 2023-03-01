@@ -8,5 +8,6 @@ edition = "2021"
 [dependencies]
 chrono = "0.4.23"
 csv = "1.2.0"
+median = "0.3.2"
 plotters = "0.3.4"
 serde = { version = "1.0.152", features = ["derive"] }
